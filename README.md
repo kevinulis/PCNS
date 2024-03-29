@@ -1,2 +1,2 @@
-# Pegasus Concierge Networking Services Repository
+# PCNS Repository
 All required images are stored in this repository
